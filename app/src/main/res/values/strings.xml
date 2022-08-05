@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PifagorApp</string>
+    <string name="title">Вычислить гипотенузу</string>
+    <string name="result_info">Результат:&#160;</string>
+    <string name="input_a">Введите значение \"a\"</string>
+    <string name="input_b">Введите значение \"b\"</string>
+    <string name="input_c">Введите значение \"c\"</string>
+    <string name="input_a_or_b">Введите значение \"a\" или \"b\"</string>
+    <string name="result">Результат</string>
+    <string name="error_info">Поле должно быть заполнено!</string>
+    <string name="find_hypotenuse">Гипотенуза</string>
+    <string name="find_cathetus">Катет</string>
+    <string name="variant_find">Что требуется найти?</string>
+    <string name="hypotenuse">
+        Гипотенуза — самая длинная сторона прямоугольного треугольника, противоположная прямому углу.
+    </string>
+    <string name="cathetus">
+        Катет — одна из двух сторон прямоугольного треугольника, образующих прямой угол.
+    </string>
+</resources>
